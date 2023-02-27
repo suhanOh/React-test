@@ -1,0 +1,133 @@
+.mission{
+  width: 800px;
+  border: 1px solid black;
+  margin: 15px;
+}
+h2{
+  margin-left: 15px;
+}
+.inputbox{
+  width: 150px;
+  height: 20px;
+  margin: 15px;
+}
+.radiobtn{
+  padding: 15px 10px;
+}
+.selectbox{
+  width: 158px;
+  margin: 15px;
+  height: 26px;
+}
+.bottom{
+  border-top: 1px solid black;
+}
+.btn{
+  width: 70px;
+  height: 26px;
+  border-radius: 12px;
+  float: right;
+  margin: 15px;
+}
+.missionTB{
+  width: 750px;
+  border-collapse : collapse;
+  border-spacing : 0;
+  text-align: center;
+  margin: 15px;
+}
+.missionTB td{
+  border: 1px solid black;
+}
+.남, .Man {
+  background: skyblue;
+  height: 32px;
+}
+.여, .Woman{
+  background: wheat;
+  height: 32px;
+}
+.td1{
+  width: 50px;
+}
+.td2{
+  width: 120px;
+}
+.td3{
+  width: 130px;
+}
+.inputBox{
+  width: 120px;
+}
+/* 페이징 버튼 */
+.pageFirst{
+  margin-left: 45%;
+  text-decoration: none;
+  color: black;
+}
+.page{
+  margin: 5px;
+  text-decoration: none;
+  color: black;
+}
+
+
+/* 팝업창 */
+.black-bg{
+  width: 100%; 
+  height: 100%;
+  background:  rgba(0, 0, 0, 0.5);
+  position: fixed; 
+  padding: 20px;
+}
+.white-bg{
+  width: 640px;
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  margin: auto;
+}
+
+.popup-update{
+  border: 1px solid black;
+  width: 600px;
+  height: 500px;
+}
+.link{
+  float: right;
+  width: 70px;
+  height: 26px;
+  border-radius: 12px;
+  margin: 15px;
+}
+.title{
+  width: 150px;
+  margin: 15px 30px 15px 100px;
+  height: 26px;
+  padding-left: 10px;
+}
+.poptb{
+  width: 150px;
+  height: 26px;
+  padding-left: 10px;
+}
+.popselect{
+  width: 158px;
+  height: 32px;
+}
+.popradio{
+  width: 15px;
+  height: 15px;
+}
+.label{
+  padding: 15px;
+}
+.btns{
+  width: 200px;
+  margin: auto;
+}
+.popworld{
+  width: 158px;
+  height: 30px;
+  padding-left: 10px;
+}
